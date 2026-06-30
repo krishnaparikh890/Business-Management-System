@@ -1,5 +1,5 @@
 
-# ERP SYSTEM 
+# Business-Management-System
 
 ## Overview
 This is a comprehensive Enterprise Resource Planning (ERP) system designed to streamline business operations. The application provides a centralized platform to manage core business processes, helping organizations improve efficiency, data accuracy, and decision-making.
