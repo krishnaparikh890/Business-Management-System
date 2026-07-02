@@ -19,8 +19,8 @@ This is a comprehensive Enterprise Resource Planning (ERP) system designed to st
 ## Steps to run the Application
 
 1. Clone the repository:
-```
-git clone https://github.com/krishnaparikh890/ERP-System.git
+```https://github.com/krishnaparikh890/Business-Management-System.git
+
 
 ```
 ### Frontend Setup
